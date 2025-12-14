@@ -83,6 +83,14 @@ showcase their profile using basic frontend web technologies.
 - Experienced working with a real-world frontend project  
 
 ---
+## Disclaimer
+
+"Olivia Smith" is a fictional demo profile used only for presentation purposes.
+This project is an academic and learning-based portfolio website.
+
+The website is customized from the open-source **Dopefolio** template
+and modified for educational use under the **GPL-3.0** license.
+
 
 ## Credits & License
 
